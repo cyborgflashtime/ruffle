@@ -1586,7 +1586,7 @@ dependencies = [
  "parking_lot 0.11.1",
  "range-alloc",
  "raw-window-handle",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "spirv_cross",
  "thunderdome",
  "winapi 0.3.9",
@@ -1608,7 +1608,7 @@ dependencies = [
  "log",
  "range-alloc",
  "raw-window-handle",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "spirv_cross",
  "winapi 0.3.9",
 ]
@@ -1641,7 +1641,7 @@ dependencies = [
  "log",
  "parking_lot 0.11.1",
  "raw-window-handle",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "spirv_cross",
  "surfman",
  "wasm-bindgen",
@@ -1669,7 +1669,7 @@ dependencies = [
  "parking_lot 0.11.1",
  "range-alloc",
  "raw-window-handle",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "spirv_cross",
  "storage-map",
 ]
@@ -1690,7 +1690,7 @@ dependencies = [
  "log",
  "objc",
  "raw-window-handle",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "winapi 0.3.9",
  "x11",
 ]
@@ -2865,7 +2865,7 @@ dependencies = [
  "cloudabi",
  "libc",
  "redox_syscall",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "winapi 0.3.9",
 ]
 
@@ -2879,7 +2879,7 @@ dependencies = [
  "instant",
  "libc",
  "redox_syscall",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "winapi 0.3.9",
 ]
 
@@ -3318,7 +3318,7 @@ dependencies = [
  "quick-xml",
  "rand",
  "ruffle_macros",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "swf",
  "thiserror",
  "url 2.2.0",
@@ -3692,9 +3692,9 @@ dependencies = [
 
 [[package]]
 name = "smallvec"
-version = "1.5.1"
+version = "1.6.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ae524f056d7d770e174287294f562e95044c68e88dec909a00d2094805db9d75"
+checksum = "1a55ca5f3b68e41c979bf8c46a6f1da892ca4db8f94023ce0bd32407573b1ac0"
 
 [[package]]
 name = "smithay-client-toolkit"
@@ -3861,7 +3861,7 @@ dependencies = [
  "lzma-rs",
  "num-derive",
  "num-traits",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
 ]
 
 [[package]]
@@ -4393,7 +4393,7 @@ checksum = "230b3ffeda101f877ff8ecb8573f5d26e7beb345b197807c4df34ec06879a3e6"
 dependencies = [
  "nix 0.18.0",
  "once_cell",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "wayland-sys 0.28.2",
 ]
 
@@ -4552,7 +4552,7 @@ dependencies = [
  "parking_lot 0.11.1",
  "raw-window-handle",
  "serde",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "tracing",
  "typed-arena",
  "wasm-bindgen",
@@ -4586,7 +4586,7 @@ dependencies = [
  "raw-window-handle",
  "ron",
  "serde",
- "smallvec 1.5.1",
+ "smallvec 1.6.0",
  "thiserror",
  "tracing",
  "wgpu-types",
