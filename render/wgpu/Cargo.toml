@@ -10,7 +10,7 @@ wgpu = { git = "https://github.com/gfx-rs/wgpu-rs", rev = "10726ef4ffaab0af7f321
 image = "0.23.12"
 jpeg-decoder = "0.1.20"
 log = "0.4"
-lyon = "0.16.2"
+lyon = "0.17.5"
 ruffle_core = { path = "../../core" }
 futures = "0.3.8"
 bytemuck = "1.4.1"
